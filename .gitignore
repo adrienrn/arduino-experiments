@@ -2,10 +2,10 @@
 *.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*/build/*.slo
+*/build/*.lo
+*/build/*.o
+*/build/*.obj
 
 # Precompiled Headers
 *.gch
@@ -27,6 +27,6 @@
 *.lib
 
 # Executables
-*.exe
-*.out
-*.app
+*/bin/*.exe
+*/bin/*.out
+*/bin/*.app
